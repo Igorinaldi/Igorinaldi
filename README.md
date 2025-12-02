@@ -1,4 +1,4 @@
-# Ciao, sono [Tuo Nome] 👋
+# Ciao, sono Igor 👋
 
 Junior **.NET e Java Developer** appassionato di **backend e applicazioni web**.  
 Esperto in **ASP.NET Core, Entity Framework, gestione autenticazione con Identity**, oltre a **Java e Spring**. 
@@ -8,7 +8,7 @@ Amo affrontare nuove sfide, imparare tecnologie diverse e creare soluzioni pulit
 
 ## 💻 Competenze principali
 
-- **Linguaggi:** C#, Java, SQL, HTML, CSS, JavaScript  
+- **Linguaggi:** C#, Java, SQL, Python, Node.js
 - **Framework:** ASP.NET Core, Entity Framework, Spring Boot  
 - **Database:** SQL Server, MySQL  
 - **Strumenti & Tecnologie:** Git, GitHub, REST API, JWT, Visual Studio  
@@ -26,7 +26,7 @@ Amo affrontare nuove sfide, imparare tecnologie diverse e creare soluzioni pulit
 
 ## 📫 Contatti
 
-- LinkedIn: [tuo-linkedin](#)  
+- LinkedIn: https://www.linkedin.com/in/igor-rinaldi-3535a8188/
 - Email: igorinaldi@gmail.com
 
 ---
