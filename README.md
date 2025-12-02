@@ -1,16 +1,36 @@
-## Hi there 👋
+# Ciao, sono [Tuo Nome] 👋
 
-<!--
-**Igorinaldi/Igorinaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior **.NET e Java Developer** appassionato di **backend e applicazioni web**.  
+Esperto in **ASP.NET Core, Entity Framework, gestione autenticazione con Identity**, oltre a **Java e Spring**. 
+Amo affrontare nuove sfide, imparare tecnologie diverse e creare soluzioni pulite e funzionali.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Competenze principali
+
+- **Linguaggi:** C#, Java, SQL, HTML, CSS, JavaScript  
+- **Framework:** ASP.NET Core, Entity Framework, Spring Boot  
+- **Database:** SQL Server, MySQL  
+- **Strumenti & Tecnologie:** Git, GitHub, REST API, JWT, Visual Studio  
+
+---
+
+## 🔭 Progetti recenti
+
+- **OfficinaManagement** – Sistema di gestione per officine meccaniche con ASP.NET Core e Entity Framework.  
+- **PresenzeDesktop** – App desktop utile per timbrare le presenze giornaliere per i dipendenti.
+
+*(Altri progetti disponibili nei miei repository)*
+
+---
+
+## 📫 Contatti
+
+- LinkedIn: [tuo-linkedin](#)  
+- Email: igorinaldi@gmail.com
+
+---
+
+## ⚡ Curiosità
+
+Quando non programmo, seguo corsi di informatica per migliorare le mie competenze e mi alleno con i manubri. Amo imparare cose nuove e condividere conoscenze con la community!
