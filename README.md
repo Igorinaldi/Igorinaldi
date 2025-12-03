@@ -33,4 +33,4 @@ Amo affrontare nuove sfide, imparare tecnologie diverse e creare soluzioni pulit
 
 ## ⚡ Curiosità
 
-Quando non programmo, seguo corsi di informatica per migliorare le mie competenze e mi alleno con i manubri. Amo imparare cose nuove e condividere conoscenze con la community!
+Quando non programmo, seguo corsi di informatica per migliorare le mie competenze. Amo imparare cose nuove e condividere conoscenze con la community!
