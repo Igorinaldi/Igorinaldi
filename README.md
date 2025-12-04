@@ -19,6 +19,8 @@ Amo affrontare nuove sfide, imparare tecnologie diverse e creare soluzioni pulit
 
 - **OfficinaManagement** – Sistema di gestione per officine meccaniche con ASP.NET Core e Entity Framework.  
 - **PresenzeDesktop** – App desktop utile per timbrare le presenze giornaliere per i dipendenti.
+- **XmasShop** – E-commerce a tema natalizio dove gli utenti possono acquistare prodotti festivi,
+  gestire il proprio account, salvare i preferiti e inviare feedback sugli ordini.
 
 *(Altri progetti disponibili nei miei repository)*
 
